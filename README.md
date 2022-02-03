@@ -1,4 +1,4 @@
-- 👋 Hi, I’m José MAgno
+- 👋 Hi, I’m José Magno
 - 👀 I’m interested in web development using .Net Core and mobile development using flutter
 - 🌱 I’m currently learning C#, .Net Core, Javascript, dart, flutter
 - 💞️ I’m looking to collaborate on community
