@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José Magno
-- 👀 I’m interested in web development using .Net Core and mobile development using flutter
-- 🌱 I’m currently learning C#, .Net Core, Javascript, dart, flutter
+- 👀 I’m fullstack web dev using Nodejs and .Net for backend, using React for frontend 
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on community
 - 📫 Reach me on josemagnorodrigues98@gmail.com
 
